@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Rozha+One');
+
+body {
+	background-color: #EEE;
+	color: #333;
+	font-family: 'Rozha One', serif;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+h1 {
+	text-align: center;
+}
+
+li {
+	display: inline-block;
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+	align-items: center;
+}
+
+li:hover {
+	color: #555;
+}
+
+ul {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	font-size: 24px;
+	color: #EEE;
+	background-color: #333;
+}
+
+p, h2 {
+	margin-left: 200px;
+	margin-right: 200px;
+	text-align: justify;
+}
